@@ -43,7 +43,8 @@ Each forder has 100 spike streams and 100 groundtruth images. For precise alignm
 
 Training dataset and real dataset from paper: X. Xiang, L. Zhu, J. Li, Y. Wang, T. Huang and Y. Tian, "[Learning Super-Resolution Reconstruction for High Temporal Resolution Spike Stream](https://ieeexplore.ieee.org/document/9625006)," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 1, pp. 16-29, Jan. 2023.
 
-[@ARTICLE{9625006,
+'''
+@ARTICLE{9625006,
   author={Xiang, Xijie and Zhu, Lin and Li, Jianing and Wang, Yixuan and Huang, Tiejun and Tian, Yonghong},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Learning Super-Resolution Reconstruction for High Temporal Resolution Spike Stream}, 
@@ -51,6 +52,7 @@ Training dataset and real dataset from paper: X. Xiang, L. Zhu, J. Li, Y. Wang, 
   volume={33},
   number={1},
   pages={16-29},
-  doi={10.1109/TCSVT.2021.3130147}}](url)
+  doi={10.1109/TCSVT.2021.3130147}}
+'''
 
 
